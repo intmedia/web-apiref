@@ -5,6 +5,9 @@ website: http://nette.org/
 
 versions:
 	# Nette 2.3
+	2.3.1:
+		- [Official, http://api.nette.org/2.3.1/]
+
 	2.3.0:
 		- [Official, http://api.nette.org/2.3.0/]
 
